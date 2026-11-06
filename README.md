@@ -67,7 +67,7 @@ The `.nii.gz` format can also be used if supported by the selected atlas files.
 | --------------- | --------- | ------------------------------------------------------------------------------------------ |
 | `--atlas`       | No*       | Path to the AAL NIfTI atlas file.                                                          |
 | `--labels`      | No*       | Path to the matching AAL text label file.                                                  |
-| `--coord X Y Z` | No        | MNI coordinate in millimetres. The default is `(20, -62, 54)`.                            |
+| `--coord X Y Z` | No        | MNI coordinate in millimetres. The example given is `(20, -62, 54)`.                            |
 | `--radius`      | No        | Maximum distance in millimetres for the nearest-labelled-voxel search. The default is `6`. |
 
 
